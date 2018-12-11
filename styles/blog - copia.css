@@ -271,7 +271,7 @@ section {
 	z-index: 100;
 }
 .header.scrolled {
-	background: #02587f;
+	background: #28527a;
 	padding-top: 6px;
 	padding-bottom: 6px;
 }
@@ -469,7 +469,7 @@ section {
 
 .home {
 	width: 100%;
-	height: 425px;
+	height: 300px;
 	overflow: hidden;
 }
 .home_background {
@@ -479,9 +479,9 @@ section {
 	width: 100%;
 	height: 100%;
 	background-color: #0181bb;
-	background-image: linear-gradient(to bottom, #02587f, #0181bb);
+	background-image: linear-gradient(to bottom, #28527a, #0181bb);
 	background: #0181bb;
-	background: linear-gradient(to bottom, #02587f, #0181bb);
+	background: linear-gradient(to bottom, #28527a, #0181bb);
 	z-index: 1;
 }
 .background_city {
@@ -584,11 +584,11 @@ section {
 
 .domain_search {
 	width: 100%;
-	background: #02587f;
+	background: #28527a;
 	z-index: 1;
 }
 .domain_search_form_container {
-	height: 152px;
+	height: 100px;
 }
 .domain_search_form {
 	width: 100%;

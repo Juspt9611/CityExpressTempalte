@@ -74,6 +74,9 @@
 ************/
 
 @media only screen and (max-width: 1024px) {
+	.news {
+		padding-top: 0;
+	}
 }
 
 /************
@@ -156,9 +159,6 @@
 ************/
 
 @media only screen and (max-width: 767px) {
-	.domain_search_form_container {
-		height: 206px;
-	}
 	.domain_search_form > div {
 		width: 100%;
 		margin-right: 0;
